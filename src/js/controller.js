@@ -18,7 +18,6 @@ if (module.hot) {
 
 
 // https://forkify-api.herokuapp.com/v2
-
 ///////////////////////////////////////
 
 
@@ -98,8 +97,6 @@ const controlAddBookmark = function() {
 
     // render bookmarks 
     bookmarksView.render(model.state.bookmarks)
-
-
 
 }
 
